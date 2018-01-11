@@ -1,0 +1,47 @@
+nav {
+  background-color: #20232a;
+}
+
+.container .navbar-light .navbar-brand {
+  color: #61dafb;
+}
+
+.container .navbar-light .navbar-brand:hover {
+  color: #61dafb;
+}
+
+.container .navbar-light .navbar-nav .nav-link {
+  color: white;
+  float: right;
+}
+
+body {
+  background-color: #282c34
+}
+
+.container h2 {
+  margin-top: 30px;
+}
+
+.col-md-12 {
+  text-align: center;
+}
+.container .nav{
+  float: right;
+}
+
+.signup, .signin, .feature, .sign-out {
+  margin-top: 30px;
+  color: white;
+}
+
+.container .feature .display-4 {
+  font-size: 3.4rem;
+}
+.container .display-3 {
+  color: #55585e;
+}
+
+.container .lead {
+  font-size: 2.0rem;
+}
