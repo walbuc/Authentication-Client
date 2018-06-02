@@ -2,7 +2,7 @@
 
 ## Live demo deployed using Now js
 
-https://public-fxsvdforhj.now.sh/signin
+https://public-fxsvdforhj.now.sh
 
 This is a React Redux client side authentication web app.
 It works with a jwt authentication service provided by a node js backend server.
